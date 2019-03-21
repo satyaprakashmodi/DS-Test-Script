@@ -1,3 +1,3 @@
 #!/bin/bash
 
-touch test1.txt
+sudo mkdir modi
